@@ -1,0 +1,86 @@
+{
+    "1001": {
+        "acc_no": 1001,
+        "name": "suwash parajuli",
+        "password": "",
+        "balance": 2500.0,
+        "history": [
+            "2025-10-13 15:54:53.324314: Deposited 500.0"
+        ]
+    },
+    "1003": {
+        "acc_no": 1003,
+        "name": "satish",
+        "password": "",
+        "balance": 4900.0,
+        "history": [
+            "2025-10-13 17:27:06.253488: Deposited 400.0",
+            "2025-10-13 17:44:25.554561: Deposited 500.0"
+        ]
+    },
+    "1004": {
+        "acc_no": 1004,
+        "name": "hari",
+        "password": "",
+        "balance": 200.0,
+        "history": []
+    },
+    "1005": {
+        "acc_no": 1005,
+        "name": "saw",
+        "password": "",
+        "balance": 1000.0,
+        "history": []
+    },
+    "1006": {
+        "acc_no": 1006,
+        "name": "you",
+        "password": "",
+        "balance": 4000.0,
+        "history": []
+    },
+    "1007": {
+        "acc_no": 1007,
+        "name": "ttt",
+        "password": "",
+        "balance": 200.0,
+        "history": []
+    },
+    "1008": {
+        "acc_no": 1008,
+        "name": "me",
+        "password": "",
+        "balance": 900.0,
+        "history": [
+            "2025-10-14 16:14:17.118683: Deposited 500.0"
+        ]
+    },
+    "1009": {
+        "acc_no": 1009,
+        "name": "you",
+        "password": "$2b$12$L4K.M31UZrSYvfE6pC3afOBfv8jDSouLc6PHYThZqzXH9DfzbrKfa",
+        "balance": 0,
+        "history": []
+    },
+    "1010": {
+        "acc_no": 1010,
+        "name": "you",
+        "password": "$2b$12$saQ.0bnxO5RMKVaOdAXw4e7SXUZ5bPqFn3qqJwC8r1cX8PEYg.nmi",
+        "balance": 0,
+        "history": []
+    },
+    "1012": {
+        "acc_no": 1012,
+        "name": "q",
+        "password": "$2b$12$gqory.BO9k23GVRSj6KFyeintCbumM0sWuURxhCvwoibRoUdHAo4e",
+        "balance": 0,
+        "history": []
+    },
+    "1013": {
+        "acc_no": 1013,
+        "name": "a",
+        "password": "$2b$12$ijWfMMVhxmx.4VtjoORJu.tAg9KBB2di8iqU9arzD6oINWPT9aR9.",
+        "balance": 0,
+        "history": []
+    }
+}
